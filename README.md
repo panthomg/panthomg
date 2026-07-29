@@ -30,9 +30,7 @@ mindset:  ship small, iterate often
 
 ### ✦ currently building
 
-- 🧠 **AEYE** — a lightweight 32×32 real-vs-AI image classifier
-- 🎧 **moodvibe** — a mood-driven listening experience
-- 🔧 tinkering with the Arduino Uno Q, slowly
+- 🧠 SoMeThInG uSeFuL
 
 </td>
 </tr>
