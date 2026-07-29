@@ -58,8 +58,9 @@ mindset:  ship small, iterate often
 
 <div align="center">
 
-### ✦ by the numbers
+### ✦ bit about me
 <img width="2323" height="537" alt="Untitled Document 2 (1) (1) (4) (1) (1)" src="https://github.com/user-attachments/assets/2cf50286-f6b3-4032-b840-e7f70506314e" />
+<img width="2323" height="537" alt="Untitled Document 2 (1) (1) (4) (1) (2)" src="https://github.com/user-attachments/assets/fe05971d-4ed1-42ca-a5c0-f346f03fae6c" />
 
 
 <br/>
