@@ -39,7 +39,7 @@ mindset:  ship small, iterate often
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=60&section=header" width="100%"/>
+<img width="2323" height="100" alt="Untitled Document 2 (1) (1) (4) (1) (1) (1)" src="https://github.com/user-attachments/assets/ab05d21f-b3a8-42de-98b1-82232e2a050f" />
 </div>
 
 <div align="center">
