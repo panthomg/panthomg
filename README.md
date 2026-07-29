@@ -92,8 +92,7 @@ mindset:  ship small, iterate often
 
 ### ✦ pinned
 
-<a href="https://github.com/panthomg/moodvibe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panthomg&repo=moodvibe&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594FD&text_color=c9d1d9" /></a>
-<a href="https://github.com/panthomg/AEYE-image-detector-32x32"><img src="https://github-readme-stats.vercel.app/api/pin/?username=panthomg&repo=AEYE-image-detector-32x32&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594FD&text_color=c9d1d9" /></a>
+SOON YOU GUYS!
 
 </div>
 
