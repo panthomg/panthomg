@@ -59,9 +59,8 @@ mindset:  ship small, iterate often
 <div align="center">
 
 ### ✦ by the numbers
+<img width="2323" height="537" alt="Untitled Document 2 (1) (1) (4) (1) (1)" src="https://github.com/user-attachments/assets/2cf50286-f6b3-4032-b840-e7f70506314e" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=panthomg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594FD&icon_color=A594FD&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panthomg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A594FD&text_color=c9d1d9" height="165"/>
 
 <br/>
 
