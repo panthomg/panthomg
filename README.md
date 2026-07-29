@@ -71,8 +71,7 @@ mindset:  ship small, iterate often
 
 </div>
 
-<br/>
-<img width="2323" height="50" alt="Untitled Document 2 (1) (1) (4) (1) (1) (2)" src="https://github.com/user-attachments/assets/63360b6e-2f07-4dd1-b8da-beef4cf66fda" />
+
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:24243e&height=60&section=header" width="100%"/>
@@ -81,6 +80,7 @@ mindset:  ship small, iterate often
 <div align="center">
 
 ### ✦ activity
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=panthomg&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A594FD&line=A594FD&point=ffffff" width="90%"/>
 
