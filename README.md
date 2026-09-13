@@ -91,7 +91,8 @@ know: I wont bore you with "AI"
 
 ### ✦ pinned
 - Still learning
-*SOON YOU GUYS!*
+
+- *SOON YOU GUYS!*
 
 </div>
 
