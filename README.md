@@ -20,17 +20,18 @@
 
 ```yaml
 name:     panthomg
-focus:    ml / computer vision / creative code
-currently: teaching machines to see (and doubt themselves)
-mindset:  ship small, iterate often
+focus:    design / ml / computer vision / creative code / solutions / real life impact
+currently: Learning different kinds of fields 
+Someday: teaching machines to see (and doubt themselves)
+know: I wont bore you with "AI"
 ```
 
 </td>
 <td valign="top" width="50%">
 
 ### ✦ currently building
-
-- 🧠 SoMeThInG uSeFuL
+- Working at Academics
+- 🧠 SoMeThInG uSeFuL 
 
 </td>
 </tr>
