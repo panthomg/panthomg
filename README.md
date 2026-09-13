@@ -90,8 +90,8 @@ know: I wont bore you with "AI"
 <div align="center">
 
 ### ✦ pinned
-
-SOON YOU GUYS!
+- Still learning
+*SOON YOU GUYS!*
 
 </div>
 
