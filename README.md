@@ -78,15 +78,7 @@ know: I wont bore you with "AI"
 
 <div align="center">
 
-### ✦ activity
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=panthomg&bg_color=0d1117&color=A594FD&line=A594FD&point=ffffff&hide_border=true" width="90%" alt="panthomg Activity Graph" />
-</p>
-</div>
-
-<br/>
 
 <div align="center">
 
