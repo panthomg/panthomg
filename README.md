@@ -78,8 +78,6 @@ know: I wont bore you with "AI"
 
 <div align="center">
 
-
-
 <div align="center">
 
 ### ✦ pinned
