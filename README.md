@@ -97,11 +97,11 @@ know: I wont bore you with "AI"
 
 </div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=60&section=header" width="100%"/>
-</div>
+### ✦ Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=panthomg&theme=tokyonight&background=0D1117&ring=A594FD&fire=A594FD&currStreakLabel=A594FD&sideLabels=ffffff&border=00000000" width="90%" alt="panthomg Activity" />
+</p>
 
 ### ✦ connect
 
