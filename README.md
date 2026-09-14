@@ -100,7 +100,7 @@ know: I wont bore you with "AI"
 ### ✦ Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=panthomg&theme=tokyonight&background=0D1117&ring=A594FD&fire=A594FD&currStreakLabel=A594FD&sideLabels=ffffff&border=00000000" width="90%" alt="panthomg Activity" />
+  <img src="https://streak-stats.demolab.com?user=panthomg&theme=tokyonight&background=0D1117&ring=A594FD&fire=A594FD&currStreakLabel=A594FD&sideLabels=ffffff&hide_border=true" width="90%" alt="panthomg Activity" />
 </p>
 
 ### ✦ connect
